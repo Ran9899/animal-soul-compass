@@ -1,4 +1,5 @@
 import type { Category } from './questions';
+export type { Category };
 
 export interface AnimalResult {
   emoji: string;
